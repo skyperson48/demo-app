@@ -1,0 +1,7 @@
+image:
+  repository: skyperson48/demo-app
+  tag: v1
+  arch: amd64
+
+env:
+  tele_token: ""
